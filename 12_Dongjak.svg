@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1880 1550">
+  <!-- Generator: Adobe Illustrator 29.5.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 137)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-family: Pretendard-Medium-KSCpc-EUC-H, Pretendard;
+        font-size: 30px;
+        font-weight: 500;
+      }
+
+      .st1 {
+        fill: #ffe6e6;
+        stroke: red;
+        stroke-linejoin: round;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <polygon class="st1" points="991.58 1155.65 979.05 1170.1 979.05 1239.33 958.88 1258.95 909.28 1258.95 888.55 1231.15 888.55 1180.45 876.56 1166.83 853.04 1177.45 839.48 1166.83 799.16 1167.38 785.53 1184.28 773.53 1185.35 758.81 1157.55 727.18 1155.93 703.21 1184.28 615.98 1207.72 645.41 1159.75 704.28 1141.75 709.21 1118.85 704.28 1097.6 731.56 1038.73 786.06 1038.73 816.6 1018 865.66 1033.26 897 1060.53 940.08 1056.15 960.51 1076.88 959.43 1098.13 968.22 1126.48 988.33 1128.68 991.58 1155.65"/>
+  <text class="st0" transform="translate(785.89 1121.77)"><tspan x="0" y="0">동작구</tspan></text>
+</svg>

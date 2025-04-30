@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1880 1550">
+  <!-- Generator: Adobe Illustrator 29.5.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 137)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-family: Pretendard-Medium-KSCpc-EUC-H, Pretendard;
+        font-size: 30px;
+        font-weight: 500;
+      }
+
+      .st1 {
+        fill: #ffe6e6;
+        stroke: red;
+        stroke-linejoin: round;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <polygon class="st1" points="816.6 1018 786.06 1038.73 731.56 1038.73 704.28 1097.6 709.21 1118.85 704.28 1141.75 645.41 1159.75 615.98 1207.72 593.08 1177.45 573.46 1080.7 528.76 1052.35 524.39 1003.83 547.83 983.65 562.01 947.13 550.01 922.33 545.11 886.08 570.18 861 632.33 906.78 691.21 928.6 742.46 928.6 772.98 988.56 803.38 988.56 816.6 1018"/>
+  <text class="st0" transform="translate(592.11 1023.4)"><tspan x="0" y="0">영등포구</tspan></text>
+</svg>

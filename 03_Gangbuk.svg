@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1880 1550">
+  <!-- Generator: Adobe Illustrator 29.5.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 137)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-family: Pretendard-Medium-KSCpc-EUC-H, Pretendard;
+        font-size: 30px;
+        font-weight: 500;
+      }
+
+      .st1 {
+        fill: #ffe6e6;
+        stroke: red;
+        stroke-linejoin: round;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <polygon class="st1" points="1273.57 486.61 1227.37 504.19 1193.85 541.81 1164 529.54 1140.7 507.06 1107.58 503.39 1082.63 454.71 1057.83 446.14 1039.7 408.94 1000.85 411.79 960.51 387.81 973.33 348.56 944.16 303.84 950.7 259.42 987.78 243.61 1001.13 205.44 986.4 156.39 1020.75 127.49 1057.83 114.42 1101.85 190.59 1135.38 198.77 1139.05 228.22 1112.08 250.69 1116.15 282.59 1103.48 297.72 1123.93 327.16 1148.87 329.19 1204.07 387.26 1239.22 413.84 1270.7 448.99 1273.57 486.61"/>
+  <text class="st0" transform="translate(1085.99 408.93)"><tspan x="0" y="0">강북구</tspan></text>
+</svg>

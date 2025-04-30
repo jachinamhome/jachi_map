@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1880 1550">
+  <!-- Generator: Adobe Illustrator 29.5.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 137)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-family: Pretendard-Medium-KSCpc-EUC-H, Pretendard;
+        font-size: 30px;
+        font-weight: 500;
+      }
+
+      .st1 {
+        fill: #ffe6e6;
+        stroke: red;
+        stroke-linejoin: round;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <path class="st1" d="M1495.85,448.86l3.55,18.53-9.53,19.22-23.32,6.13-29.85-15.93-72.35,38.43h-42.52l-48.25-28.62-2.87-37.62-31.48-35.15,8.18-38.85,21.67-18.8,17.39,12.27,20.24-24.55-8.2-80.95-32.3-48.25v-30.67l14.72-28.2,2.87-53.15,44.97-9,62.68-35.43,28.35,39.52,39-4.92,18.53,23.72-18.8,46.07,9.25,83.4-38.7,23.17,2.18,15.53,44.45,39.8,52.88,13.08s14.17,65.15,14.17,66.25-46.9,44.97-46.9,44.97Z"/>
+  <text class="st0" transform="translate(1352.1 403.93)"><tspan x="0" y="0">노원구</tspan></text>
+</svg>

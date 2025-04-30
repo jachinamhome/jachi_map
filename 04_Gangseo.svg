@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1880 1550">
+  <!-- Generator: Adobe Illustrator 29.5.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 137)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-family: Pretendard-Medium-KSCpc-EUC-H, Pretendard;
+        font-size: 30px;
+        font-weight: 500;
+      }
+
+      .st1 {
+        fill: #ffe6e6;
+        stroke: red;
+        stroke-linejoin: round;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <polygon class="st1" points="570.18 861 545.11 886.08 505.86 880.08 484.59 871.36 437.16 871.36 429.54 912.23 437.16 954.23 409.36 975.48 361.39 983.65 340.14 973.85 331.96 925.33 310.14 914.96 273.62 944.13 236.01 899.98 153.14 920.96 126.71 895.08 70.82 879.53 19.04 821.21 70.82 750.88 82.82 710.26 153.69 653.29 141.97 583.24 194.04 549.99 309.06 662.28 423.26 716.53 449.16 767.23 506.96 813.03 551.66 828.43 570.18 861"/>
+  <text class="st0" transform="translate(301.75 818.34)"><tspan x="0" y="0">강서구</tspan></text>
+</svg>

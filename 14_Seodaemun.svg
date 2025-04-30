@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1880 1550">
+  <!-- Generator: Adobe Illustrator 29.5.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 137)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-family: Pretendard-Medium-KSCpc-EUC-H, Pretendard;
+        font-size: 30px;
+        font-weight: 500;
+      }
+
+      .st1 {
+        fill: #ffe6e6;
+        stroke: red;
+        stroke-linejoin: round;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <polygon class="st1" points="897 760.13 878.2 812.08 814.01 828.43 721.61 818.21 713.01 772.81 648.83 740.93 611.61 707.41 659.06 669.78 703.61 664.88 766.98 607.64 787.43 560.21 807.88 556.11 867.56 595.78 874.93 657.11 861.85 714.36 885.96 731.72 897 760.13"/>
+  <text class="st0" transform="translate(713.04 720.9)"><tspan x="0" y="0">서대문구</tspan></text>
+</svg>

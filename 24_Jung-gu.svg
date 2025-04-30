@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1880 1550">
+  <!-- Generator: Adobe Illustrator 29.5.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 137)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-family: Pretendard-Medium-KSCpc-EUC-H, Pretendard;
+        font-size: 30px;
+        font-weight: 500;
+      }
+
+      .st1 {
+        fill: #ffe6e6;
+        stroke: red;
+        stroke-linejoin: round;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <polygon class="st1" points="1158.27 778.96 1145.6 808.81 1123.52 823.11 1082.23 881.58 980.41 862.78 935.16 836.61 902.73 839.46 878.2 812.08 897 760.13 946.88 750.73 1007.8 763.41 1038.88 751.96 1099.8 756.06 1145.6 747.88 1158.27 778.96"/>
+  <text class="st0" transform="translate(997.32 820.63)"><tspan x="0" y="0">중구</tspan></text>
+</svg>

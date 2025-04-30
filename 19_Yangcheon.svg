@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1880 1550">
+  <!-- Generator: Adobe Illustrator 29.5.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 137)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-family: Pretendard-Medium-KSCpc-EUC-H, Pretendard;
+        font-size: 30px;
+        font-weight: 500;
+      }
+
+      .st1 {
+        fill: #ffe6e6;
+        stroke: red;
+        stroke-linejoin: round;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <polygon class="st1" points="547.83 983.65 524.39 1003.83 528.76 1052.35 485.69 1061.6 477.51 1104.68 446.99 1104.68 435.54 1081.78 384.29 1070.33 342.31 1096.5 339.59 1116.68 313.41 1128.68 305.24 1097.05 265.99 1050.7 265.17 1000.01 273.62 944.13 310.14 914.96 331.96 925.33 340.14 973.85 361.39 983.65 409.36 975.48 437.16 954.23 429.54 912.23 437.16 871.36 484.59 871.36 505.86 880.08 545.11 886.08 550.01 922.33 562.01 947.13 547.83 983.65"/>
+  <text class="st0" transform="translate(377.56 1031.63)"><tspan x="0" y="0">양천구</tspan></text>
+</svg>

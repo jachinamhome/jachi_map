@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1880 1550">
+  <!-- Generator: Adobe Illustrator 29.5.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 137)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-family: Pretendard-Medium-KSCpc-EUC-H, Pretendard;
+        font-size: 30px;
+        font-weight: 500;
+      }
+
+      .st1 {
+        fill: #ffe6e6;
+        stroke: red;
+        stroke-linejoin: round;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <polygon class="st1" points="865.93 869.31 869.61 910.61 842.21 933.91 825.46 922.06 803.38 938.83 803.38 988.56 772.98 988.56 742.46 928.6 691.21 928.6 632.33 906.78 570.18 861 551.66 828.43 506.96 813.03 449.16 767.23 423.26 716.53 482.69 703.18 482.69 663.38 521.94 628.21 587.91 635.03 611.61 707.41 648.83 740.93 713.01 772.81 721.61 818.21 814.01 828.43 878.2 812.08 902.73 839.46 865.93 869.31"/>
+  <text class="st0" transform="translate(605.07 837.98)"><tspan x="0" y="0">마포구</tspan></text>
+</svg>

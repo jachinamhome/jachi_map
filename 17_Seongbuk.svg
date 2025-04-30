@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1880 1550">
+  <!-- Generator: Adobe Illustrator 29.5.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 137)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-family: Pretendard-Medium-KSCpc-EUC-H, Pretendard;
+        font-size: 30px;
+        font-weight: 500;
+      }
+
+      .st1 {
+        fill: #ffe6e6;
+        stroke: red;
+        stroke-linejoin: round;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <polygon class="st1" points="1374.97 554.55 1326.32 558.58 1302.2 588.83 1267.02 585.96 1229 605.18 1229 630.53 1198.35 649.34 1187.3 683.28 1162.35 704.53 1117.04 687.78 1083.03 684.09 1066.28 659.98 1060.15 629.31 1034.8 621.54 992.68 624.41 970.6 598.64 992.68 564.71 981.23 491.94 955.88 434.29 935.16 401.71 960.51 387.81 1000.85 411.79 1039.7 408.94 1057.83 446.14 1082.63 454.71 1107.58 503.39 1140.7 507.06 1164 529.54 1193.85 541.81 1227.37 504.19 1273.57 486.61 1321.82 515.24 1364.35 515.24 1374.97 554.55"/>
+  <text class="st0" transform="translate(1085.99 592.65)"><tspan x="0" y="0">성북구</tspan></text>
+</svg>

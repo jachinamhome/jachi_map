@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1880 1550">
+  <!-- Generator: Adobe Illustrator 29.5.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 137)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-family: Pretendard-Medium-KSCpc-EUC-H, Pretendard;
+        font-size: 30px;
+        font-weight: 500;
+      }
+
+      .st1 {
+        fill: #ffe6e6;
+        stroke: red;
+        stroke-linejoin: round;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <polygon class="st1" points="1599.72 1302.3 1578.72 1350 1548.47 1365.55 1513.85 1339.1 1477.05 1349.72 1449.52 1281.3 1419 1262.78 1384.1 1278.05 1362.3 1269.32 1338.85 1282.4 1338.85 1297.12 1313.22 1312.38 1244 1256.23 1254.35 1234.97 1237.45 1216.43 1208.55 1212.08 1176.95 1178.28 1176.95 1147.75 1133.88 1063.8 1131.15 1020.73 1105.21 983.36 1135.5 950.95 1177.48 925.88 1258.17 938.83 1273.57 955.31 1297.15 970.03 1347.57 1018.55 1350.85 1067.05 1371.7 1117.23 1466.42 1146.65 1488.77 1172.83 1532.37 1188.1 1552 1242.05 1580.35 1255.7 1599.72 1302.3"/>
+  <text class="st0" transform="translate(1254.26 1158.38)"><tspan x="0" y="0">강남구</tspan></text>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1880 1550">
+  <!-- Generator: Adobe Illustrator 29.5.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 137)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-family: Pretendard-Medium-KSCpc-EUC-H, Pretendard;
+        font-size: 30px;
+        font-weight: 500;
+      }
+
+      .st1 {
+        fill: #ffe6e6;
+        stroke: red;
+        stroke-linejoin: round;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <polygon class="st1" points="1371.7 854.58 1330 902.83 1330 931.05 1297.15 970.03 1273.57 955.31 1258.17 938.83 1177.48 925.88 1135.5 950.95 1118.6 922.06 1094.9 917.15 1082.23 881.58 1123.52 823.11 1145.6 808.81 1158.27 778.96 1145.6 747.88 1162.35 731.93 1187.7 740.93 1224.5 720.88 1253.95 730.92 1278.47 778.96 1369.31 798.98 1371.7 854.58"/>
+  <text class="st0" transform="translate(1192.16 861.41)"><tspan x="0" y="0">성동구</tspan></text>
+</svg>

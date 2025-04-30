@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1880 1550">
+  <!-- Generator: Adobe Illustrator 29.5.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 137)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-family: Pretendard-Medium-KSCpc-EUC-H, Pretendard;
+        font-size: 30px;
+        font-weight: 500;
+      }
+
+      .st1 {
+        fill: #ffe6e6;
+        stroke: red;
+        stroke-linejoin: round;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <polygon class="st1" points="1861.11 833.73 1830.59 885.26 1779.34 891.53 1733.27 912.78 1730.82 947.13 1665.12 1054.53 1615.24 1018.55 1599.72 986.38 1583.07 974.93 1586.89 932.41 1573.82 908.43 1534.84 896.3 1543.42 855.81 1525.57 792.31 1569.17 771.58 1680.39 736.98 1787.79 668.28 1822.39 696.63 1822.94 751.68 1861.11 833.73"/>
+  <text class="st0" transform="translate(1658.19 837.42)"><tspan x="0" y="0">강동구</tspan></text>
+</svg>

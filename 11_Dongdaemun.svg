@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1880 1550">
+  <!-- Generator: Adobe Illustrator 29.5.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 137)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-family: Pretendard-Medium-KSCpc-EUC-H, Pretendard;
+        font-size: 30px;
+        font-weight: 500;
+      }
+
+      .st1 {
+        fill: #ffe6e6;
+        stroke: red;
+        stroke-linejoin: round;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <polygon class="st1" points="1401.15 676.73 1401.15 747.46 1369.31 798.98 1278.47 778.96 1253.95 730.92 1224.5 720.88 1187.7 740.93 1162.35 731.93 1162.35 704.53 1187.3 683.28 1198.35 649.34 1229 630.53 1229 605.18 1267.02 585.96 1302.2 588.83 1326.32 558.58 1374.97 554.55 1371.3 587.19 1347.57 594.56 1361.26 658.33 1401.15 676.73"/>
+  <text class="st0" transform="translate(1235 693.89)"><tspan x="0" y="0">동대문구</tspan></text>
+</svg>

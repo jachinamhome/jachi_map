@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1880 1550">
+  <!-- Generator: Adobe Illustrator 29.5.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 137)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-family: Pretendard-Medium-KSCpc-EUC-H, Pretendard;
+        font-size: 30px;
+        font-weight: 500;
+      }
+
+      .st1 {
+        fill: #ffe6e6;
+        stroke: red;
+        stroke-linejoin: round;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <path class="st1" d="M1760.26,1112.3c0,2.73-16.65,74.42-16.65,74.42l-31.07,23.17v44.7l-70.32,2.73-10.35,7.35,6,30.27-2.45,3.25-35.7,4.1-19.37-46.6-28.35-13.65-19.62-53.95-43.6-15.27-22.35-26.17-94.72-29.43-20.85-50.17-3.27-48.5,87.1-11.87,52.73-26.98,47.45-83.4,38.98,12.13,13.08,23.98-3.82,42.52,16.65,11.45,15.53,32.17,49.88,35.98,25.35,45.52s69.8,9.53,69.8,12.25Z"/>
+  <text class="st0" transform="translate(1507.53 1102.22)"><tspan x="0" y="0">송파구</tspan></text>
+</svg>
